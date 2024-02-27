@@ -1,0 +1,50 @@
+       Accounting
+________________________________________________
+https://www.odoo.com/documentation/17.0/applications/finance/accounting.html
+https://www.youtube.com/watch?v=nmo978Z4KIU&list=PL1-aSABtP6ADAzBTqJWOw6WeYTT8AeKZ_&pp=iAQB
+  Get started
+Chart of Accounts
+here is egyption Chart of Accounts
+https://docs.google.com/spreadsheets/d/1omwPHaDjT35lDlR-pj6103X_ZGEQdAgk/edit?usp=drive_link&ouid=107177272027670174748&rtpof=true&sd=true
+https://docs.google.com/spreadsheets/d/1N9Oyeal0GyksniQjfnrI4Yq00MEptMK_/edit?usp=drive_link&ouid=107177272027670174748&rtpof=true&sd=true
+____________________________________________________________________________________________________________________________________
+                   Website 
+https://www.youtube.com/watch?v=mdLkZ6x2qFc&list=PL1-aSABtP6AC17NTxZVcMZ79jn4zSb-A8
+An e-commerce project, which is a platform that contains a registration page for suppliers and adding them to the platform, and on the other hand, 
+the customer begins browsing and making the purchase, and payment is made in this platform COD
+
+ applications used
+https://apps.odoo.com/apps/modules/17.0/odoo_marketplace/
+https://apps.odoo.com/apps/modules/17.0/sh_website_sale_cod/
+
+This video is to learn how to connect Odoo to Shopify
+https://www.youtube.com/watch?v=8QgZ4bp-7MA&list=PLZGehiXauylZAowR8580_18UZUyWRjynd
+____________________________________________________________________________________________________________________________________
+                                               Inventory 
+https://www.youtube.com/watch?v=oxW22KBPsVU
+____________________________________________________________________________________________________________________________________
+    successful applications on pdpp for eac section
+       to hr for Portal User
+https://apps.odoo.com/apps/modules/16.0/evo_portal_task/  
+https://apps.odoo.com/apps/modules/17.0/om_hr_payroll_account/
+     to website
+https://apps.odoo.com/apps/modules/17.0/odoo_marketplace/
+https://apps.odoo.com/apps/modules/17.0/sh_website_sale_cod/ 
+https://apps.odoo.com/apps/modules/17.0/woo_commerce_ept/
+     to accounting free local
+https://apps.odoo.com/apps/modules/17.0/accounting_pdf_reports/
+https://apps.odoo.com/apps/modules/17.0/om_account_accountant/
+____________________________________________________________________________________________________________________________________    
+       hr code to payroll
+Deduction = result=worked_days.LEAVE110.number_of_days
+result=worked_days.LEAVE110.number_of_days*100     to days
+result=worked_days.LEAVE110.number_of_hours        to hours
+____________________________________________________________________________________________________________________________________    
+https://www.cybrosys.com/odoo/odoo-books/odoo-book-v16/accounting/anglo-saxon-accounting/    = Anglo- Saxon Accounting
+____________________________________________________________________________________________________________________________________
+Use serial numbers to track products***
+https://www.odoo.com/documentation/17.0/applications/inventory_and_mrp/inventory/product_management/product_tracking/serial_numbers.html
+____________________________________________________________________________________________________________________________________
+
+
+
